@@ -1,0 +1,14 @@
+E:\Projects\Software Company (My Job)\ITransition Internship\Task1&2\Task\TaskApp\bin\Debug\net8.0\TaskApp.exe
+E:\Projects\Software Company (My Job)\ITransition Internship\Task1&2\Task\TaskApp\bin\Debug\net8.0\TaskApp.deps.json
+E:\Projects\Software Company (My Job)\ITransition Internship\Task1&2\Task\TaskApp\bin\Debug\net8.0\TaskApp.runtimeconfig.json
+E:\Projects\Software Company (My Job)\ITransition Internship\Task1&2\Task\TaskApp\bin\Debug\net8.0\TaskApp.dll
+E:\Projects\Software Company (My Job)\ITransition Internship\Task1&2\Task\TaskApp\bin\Debug\net8.0\TaskApp.pdb
+E:\Projects\Software Company (My Job)\ITransition Internship\Task1&2\Task\TaskApp\obj\Debug\net8.0\TaskApp.GeneratedMSBuildEditorConfig.editorconfig
+E:\Projects\Software Company (My Job)\ITransition Internship\Task1&2\Task\TaskApp\obj\Debug\net8.0\TaskApp.AssemblyInfoInputs.cache
+E:\Projects\Software Company (My Job)\ITransition Internship\Task1&2\Task\TaskApp\obj\Debug\net8.0\TaskApp.AssemblyInfo.cs
+E:\Projects\Software Company (My Job)\ITransition Internship\Task1&2\Task\TaskApp\obj\Debug\net8.0\TaskApp.csproj.CoreCompileInputs.cache
+E:\Projects\Software Company (My Job)\ITransition Internship\Task1&2\Task\TaskApp\obj\Debug\net8.0\TaskApp.dll
+E:\Projects\Software Company (My Job)\ITransition Internship\Task1&2\Task\TaskApp\obj\Debug\net8.0\refint\TaskApp.dll
+E:\Projects\Software Company (My Job)\ITransition Internship\Task1&2\Task\TaskApp\obj\Debug\net8.0\TaskApp.pdb
+E:\Projects\Software Company (My Job)\ITransition Internship\Task1&2\Task\TaskApp\obj\Debug\net8.0\TaskApp.genruntimeconfig.cache
+E:\Projects\Software Company (My Job)\ITransition Internship\Task1&2\Task\TaskApp\obj\Debug\net8.0\ref\TaskApp.dll
